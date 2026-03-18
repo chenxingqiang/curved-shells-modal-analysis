@@ -160,4 +160,4 @@ If you use this package in your research, please cite:
 
 For questions and feedback:
 - Email: chen.xingqiang@iechor.com
-- GitHub Issues: [https://github.com/gxingqiang/modal-analysis/issues](https://github.com/gxingqiang/modal-analysis/issues)
+- GitHub Issues: [https://github.com/chenxingqiang/curved-shells-modal-analysis/issues](https://github.com/chenxingqiang/curved-shells-modal-analysis/issues)
