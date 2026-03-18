@@ -73,12 +73,12 @@ A comprehensive MATLAB package for modal analysis of curved surfaces, including 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/gxingqiang/modal-analysis.git
+git clone https://github.com/chenxingqiang/curved-shells-modal-analysis.git
 ```
 
 2. Add the package to your MATLAB path:
 ```matlab
-addpath('/path/to/modal-analysis');
+addpath('/path/to/curved-shells-modal-analysis');
 ```
 
 ## Quick Start
@@ -152,12 +152,13 @@ If you use this package in your research, please cite:
   title = {Modal Analysis Package for Curved Surfaces},
   year = {2024},
   publisher = {GitHub},
-  url = {https://github.com/gxingqiang/modal-analysis}
+  url = {https://github.com/chenxingqiang/curved-shells-modal-analysis.git}
 }
 ```
 
 ## Contact
 
 For questions and feedback:
-- Email: chen.xingqiang@iechor.com
+- Email: joy6677@outlook.com
+- Wechat: deepmodels
 - GitHub Issues: [https://github.com/chenxingqiang/curved-shells-modal-analysis/issues](https://github.com/chenxingqiang/curved-shells-modal-analysis/issues)
